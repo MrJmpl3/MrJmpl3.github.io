@@ -1,2 +1,2 @@
 # MrJmpl3.github.io
-Pagina Web de MrJmpl3
+## Actualmente solo esta activo para no perder el trafico de usuarios
